@@ -1,0 +1,10 @@
+AI PERSONAL STUDY BUDDY(PYTHON PROJECT)
+Project Overview
+    The AI Personal is a python-based learning assistant designed to help students plan their studies, test their understanding through quizes
+Approach I used during this Project
+    - Used chat-gpt to help me with my Project
+
+How I prompted Chatgpt
+    - help me with the for loop syntax 
+    - In this code help me debug on main.py 
+        -It corrected me and gave me effective answer as per what i had asked it  
