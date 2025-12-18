@@ -1,7 +1,5 @@
 from study_planner import create_study_plan
 from quiz_engine import start_quiz
-from progress_tracker import save_progress, view_progress
-from motivation import motivate_user
 
 def menu():
     print("\n AI Personal Study Buddy")
